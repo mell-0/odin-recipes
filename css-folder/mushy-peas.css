@@ -1,0 +1,32 @@
+body {
+    background-color: antiquewhite;
+}
+
+h1,
+.home {
+    text-align: center;
+}
+
+div img {
+    border: 5px solid black;
+
+    /* display: flex;
+    margin-right: auto;
+    margin-left: auto; */
+}
+
+.section1,
+.section2 {
+    display: flex;
+}
+
+.section1 div,
+.section2 div{
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.section1-1 {
+    width: 40%;
+}
+
